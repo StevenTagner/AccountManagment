@@ -1,0 +1,1059 @@
+﻿++Solution 'MvcAccounts' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MvcAccounts.sln
+++MvcAccounts
+i:{00000000-0000-0000-0000-000000000000}:MvcAccounts
+++Connected Services 
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:>1051
+++SQL Server Express LocalDB (Local) (ConnectionStrings:MvcAccountsContext)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:>1077
+++Dependencies
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:>1050
+++Analyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:analyzers
+++Frameworks
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:frameworks
+++Packages
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:packages
+++Imports
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:>450
+++Sdk.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Properties
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\properties\
+++launchSettings.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\properties\launchsettings.json
+++serviceDependencies.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\properties\servicedependencies.json
+++serviceDependencies.local.json.user
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\properties\servicedependencies.local.json.user
+++wwwroot
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\
+++bin
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\
+++Controllers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\controllers\
+++AccountsController.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\controllers\accountscontroller.cs
+++HelloWorldController.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\controllers\helloworldcontroller.cs
+++HomeController.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\controllers\homecontroller.cs
+++Data
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\data\
+++MvcAccountsContext.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\data\mvcaccountscontext.cs
+++Migrations
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\migrations\
+++20211114004647_InitialCreate.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\migrations\20211114004647_initialcreate.cs
+++MvcAccountsContextModelSnapshot.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\migrations\mvcaccountscontextmodelsnapshot.cs
+++Models
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\models\
+++Account.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\models\account.cs
+++ErrorViewModel.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\models\errorviewmodel.cs
+++SeedData.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\models\seeddata.cs
+++obj
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\
+++Debug
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\
+++MvcAccounts.csproj.nuget.dgspec.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\mvcaccounts.csproj.nuget.dgspec.json
+++MvcAccounts.csproj.nuget.g.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\mvcaccounts.csproj.nuget.g.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\mvcaccounts.csproj.nuget.g.props
+++MvcAccounts.csproj.nuget.g.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\mvcaccounts.csproj.nuget.g.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\mvcaccounts.csproj.nuget.g.targets
+++project.assets.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\project.assets.json
+++project.nuget.cache
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\staticwebassets.pack.sentinel
+++Views
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\scopedcss\views\
+++Accounts
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\accounts\
+++HelloWorld
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\helloworld\
+++Home
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\home\
+++Shared
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\shared\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\scopedcss\views\shared\
+++_ViewImports.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\_viewstart.cshtml
+++appsettings.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\appsettings.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\appsettings.json
+++Program.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\program.cs
+++MessagePackAnalyzer
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.0)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:>1074
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:>1073
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:>1075
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:>1076
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++serviceDependencies.local.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\properties\servicedependencies.local.json
+++css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\css\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\js\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\unix\lib\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm\lib\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm64\lib\
+++favicon.ico
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\favicon.ico
+++20211114004647_InitialCreate.Designer.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\migrations\20211114004647_initialcreate.designer.cs
+++net6.0
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\
+++Create.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\accounts\create.cshtml
+++Delete.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\accounts\delete.cshtml
+++Details.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\accounts\details.cshtml
+++Edit.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\accounts\edit.cshtml
+++Index.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\accounts\index.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\helloworld\index.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\home\index.cshtml
+++Welcome.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\helloworld\welcome.cshtml
+++Privacy.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\shared\error.cshtml
+++appsettings.Development.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\appsettings.development.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\appsettings.development.json
+++Microsoft.Common.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++site.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\css\site.css
+++site.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\js\site.js
+++bootstrap
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\
+++jquery
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery\
+++jquery-validation
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation-unobtrusive\
+++ref
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ref\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\ref\
+++scopedcss
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\scopedcss\
+++staticwebassets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\apphost.exe
+++MvcAccounts.AssemblyInfo.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.assemblyinfo.cs
+++MvcAccounts.AssemblyInfoInputs.cache
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.assemblyinfoinputs.cache
+++MvcAccounts.assets.cache
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.assets.cache
+++MvcAccounts.csproj.AssemblyReference.cache
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.csproj.assemblyreference.cache
+++MvcAccounts.csproj.CopyComplete
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.csproj.copycomplete
+++MvcAccounts.csproj.CoreCompileInputs.cache
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.csproj.corecompileinputs.cache
+++MvcAccounts.csproj.FileListAbsolute.txt
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.csproj.filelistabsolute.txt
+++MvcAccounts.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\mvcaccounts.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ref\mvcaccounts.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\ref\mvcaccounts.dll
+++MvcAccounts.GeneratedMSBuildEditorConfig.editorconfig
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.generatedmsbuildeditorconfig.editorconfig
+++MvcAccounts.genruntimeconfig.cache
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.genruntimeconfig.cache
+++MvcAccounts.GlobalUsings.g.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.globalusings.g.cs
+++MvcAccounts.MvcApplicationPartsAssemblyInfo.cache
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.mvcapplicationpartsassemblyinfo.cache
+++MvcAccounts.pdb
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\mvcaccounts.pdb
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.pdb
+++MvcAccounts.RazorAssemblyInfo.cache
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.razorassemblyinfo.cache
+++MvcAccounts.RazorAssemblyInfo.cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\mvcaccounts.razorassemblyinfo.cs
+++project.razor.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\project.razor.json
+++staticwebassets.build.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\staticwebassets.development.json
+++_Layout.cshtml.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\views\shared\_layout.cshtml.css
+++Microsoft.NuGet.ImportBefore.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files (x86)\microsoft sdks\typescript\4.3\build\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++dist
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery\dist\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery\license.txt
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++cs
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\
+++de
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\
+++es
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\
+++fr
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\
+++it
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\
+++ja
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\
+++ko
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\
+++pl
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\
+++pt-BR
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\
+++ru
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\
+++runtimes
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\
+++tr
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\
+++zh-Hans
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\
+++dotnet-aspnet-codegenerator-design.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+++Humanizer.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\humanizer.dll
+++MessagePack.Annotations.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\messagepack.annotations.dll
+++MessagePack.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\messagepack.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.build.dll
+++Microsoft.Build.Framework.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.build.framework.dll
+++Microsoft.Build.Tasks.Core.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.build.tasks.core.dll
+++Microsoft.Build.Utilities.Core.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.build.utilities.core.dll
+++Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.analyzerutilities.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Features.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.csharp.features.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Features.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.features.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.features.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Data.SqlClient.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.DiaSymReader.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.diasymreader.dll
+++Microsoft.DotNet.Scaffolding.Shared.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.dotnet.scaffolding.shared.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Identity.Client.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.VisualStudio.Debugger.Contracts.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.visualstudio.debugger.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++MvcAccounts.deps.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\mvcaccounts.deps.json
+++MvcAccounts.exe
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\mvcaccounts.exe
+++MvcAccounts.runtimeconfig.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\mvcaccounts.runtimeconfig.json
+++MvcAccounts.staticwebassets.runtime.json
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\mvcaccounts.staticwebassets.runtime.json
+++Newtonsoft.Json.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\newtonsoft.json.dll
+++NuGet.Common.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.common.dll
+++NuGet.Configuration.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.configuration.dll
+++NuGet.DependencyResolver.Core.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.dependencyresolver.core.dll
+++NuGet.Frameworks.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.frameworks.dll
+++NuGet.LibraryModel.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.librarymodel.dll
+++NuGet.Packaging.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.packaging.dll
+++NuGet.ProjectModel.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.projectmodel.dll
+++NuGet.Protocol.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.protocol.dll
+++NuGet.Versioning.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\nuget.versioning.dll
+++System.CodeDom.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.codedom.dll
+++System.Composition.AttributedModel.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.drawing.common.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Resources.Extensions.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.resources.extensions.dll
+++System.Runtime.Caching.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.runtime.caching.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\system.windows.extensions.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++bundle
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\scopedcss\bundle\
+++projectbundle
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\scopedcss\projectbundle\
+++Microsoft.EntityFrameworkCore.Design.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\.nuget\packages\microsoft.entityframeworkcore.design\6.0.0\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++03.01.02.00.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files (x86)\microsoft sdks\typescript\versions\03.01.02.00.props
+++04.03.05.00.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files (x86)\microsoft sdks\typescript\versions\04.03.05.00.props
+++jquery.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.features.resources.dll
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.scripting.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.features.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.scripting.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.scripting.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.features.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\unix\
+++win
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-x86\
+++MvcAccounts.styles.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\scopedcss\bundle\mvcaccounts.styles.css
+++MvcAccounts.bundle.scp.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\scopedcss\projectbundle\mvcaccounts.bundle.scp.css
+++Microsoft.NET.ILLink.Tasks.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++bootstrap.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++native
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm\native\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-x64\native\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-x86\native\
+++_Layout.cshtml.rz.scp.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++MvcAccounts.csproj.user
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\mvcaccounts.csproj.user
+++Microsoft.NET.props
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++bootstrap.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\jquery\dist\jquery.min.map
+++netcoreapp3.0
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.DesktopBridge.Common.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++bootstrap.min.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++dotnet-aspnet-codegenerator-design.exe
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+++bootstrap.rtl.min.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{b9d0620e-a680-4376-969f-7a3ab40dd890}:c:\users\steve\desktop\school\csc340\mvcaccounts\mvcaccounts\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
